@@ -103,7 +103,7 @@ The goal of this project is to **predict the efficiency of solar panels** based 
 
 ## 🎥 Project Demo
 
-##![Demo](Project_Demo/Screen-Recording%20(1).gif)
+![Demo](Project_Demo/Screen-Recording%20(1f)
 *Quick overview of model training and prediction process.*
 
 
