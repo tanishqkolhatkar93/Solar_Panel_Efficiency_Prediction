@@ -90,6 +90,20 @@ The goal of this project is to **predict the efficiency of solar panels** based 
 
 ## 📈 Results & Insights
 
+## 📊 Model Results Visualization
+
+![Efficiency Plot](assets/efficiency_plot.png)
+*Efficiency of solar panel over varying environmental and sensor data.*
+
+
+---
+
+## 🎥 Project Demo
+
+![Demo](assets/demo.gif)
+*Quick overview of model training and prediction process.*
+
+
 - **Linear Regression** performed the best, proving that even a simple model can be effective when features are well-engineered.
 - `irradiance`, `temperature`, and `soiling_ratio` were the top contributors to efficiency variation.
 - The solution can help predict solar panel degradation in smart energy systems.
