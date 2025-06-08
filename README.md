@@ -92,8 +92,8 @@ The goal of this project is to **predict the efficiency of solar panels** based 
 
 ## 📊 Model Results Visualization
 
-![Efficiency Plot](assets/efficiency_plot.png)
-*Efficiency of solar panel over varying environmental and sensor data.*
+![Efficiency Plot](Project_Demo/Screenshot%202025-06-08%20102306.png)
+*Efficiency of solar panel over varying environmental.*
 
 
 ---
