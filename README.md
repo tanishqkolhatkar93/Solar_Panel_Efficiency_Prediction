@@ -120,10 +120,22 @@ The goal of this project is to **predict the efficiency of solar panels** based 
 
 ---
 
-## 👨‍💻 Author
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+Feel free to use, modify, and distribute this project for personal and commercial purposes. See the LICENSE file for more details.
+
+ 
+## 👤 Author
 
 **Tanishq Kolhatkar**  
-💼 [LinkedIn](https://www.linkedin.com/in/tanishqkolhatkar) • 💡 AI/ML & Cloud Enthusiast
+📧 tanishqkolhatkar93@gmail.com  
+🌐 [LinkedIn](https://www.linkedin.com/in/tanishq-kolhatkar/)  
+💻 [GitHub](https://github.com/tanishqkolhatkar93)
+
+If you found this project useful, feel free to ⭐ the repo and connect with me!
+
 
 ---
 
